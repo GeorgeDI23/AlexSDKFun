@@ -1,4 +1,4 @@
-package ml.georgedi23.requestHandlers;
+package ml.georgedi23.handlers;
 
 
 import com.amazon.ask.dispatcher.request.handler.HandlerInput;
